@@ -3,8 +3,6 @@ function showRandom() {
     let sum = 0;
     let multi = 1;
 
-    randomNumbers.length = 10;
-
     console.log(randomNumbers);
 
     for (let i = 0; i < 10; i++) {
